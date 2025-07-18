@@ -9,4 +9,4 @@ Foram confeccionados alguns gráficos que mostram por exemplo a comparação ent
  <img width="211" height="211" alt="image" src="https://github.com/user-attachments/assets/307baaa3-45c7-4b00-bbb8-0b2028c4049a" />
 
 4-	Instruções para executar o notebook.<br>
-Para executar o notebook basta copiar o arquivo do notebook e abrir no google colab e executar as células para obter os resultados 
+Para executar o notebook basta copiar o arquivo de notebook "AluraStoreBr.ipynb" e abrir no google colab para executar as células e  obter os resultados 
