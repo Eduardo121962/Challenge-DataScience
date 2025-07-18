@@ -1,7 +1,7 @@
-1-	Propósito da análise realizada.
+1-	Propósito da análise realizada.<p>
 Este é um projeto de análise de dados necessário para a obtenção de certificação no curso “Praticando Python para Data Science: Challenge Alura Store do projeto ONE 
 O proposito desta análise é indicar ao Sr. João qual das quatro lojas que possui deve ser vendida e expor os motivos para a escolha
-2-	Estrutura do projeto e organização dos arquivos.
+2-	Estrutura do projeto e organização dos arquivos.<p>
 O projeto está organizado em partes onde são analisadas algumas características do desenvolvimento das quatro lojas. Primeiro foi realizado a obtenção dos dados que estão em formato CSV para um formato de dataFrame  que pode ser mais facilmente manipulado.
 3-	Exemplos de gráficos e insights obtidos.
 As analises realizados foram baseadas nas seguintes informações: Faturamento total de cada loja,  Vendas por categoria de produtos, média de avaliações por loja, produtos mais e menos vendidos e frete médio por loja
